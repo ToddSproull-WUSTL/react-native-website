@@ -7,6 +7,7 @@ React Native is like React, but it uses native components instead of web compone
 
 Let's do this thing.
 
+
 ## Hello World
 
 In accordance with the ancient traditions of our people, we must first build an app that does nothing except say "Hello, world!". Here it is:
